@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy @programadorgr, un apasionado desarrollador fullstack con experiencia en la creación de aplicaciones web robustas y escalables. Me encanta trabajar en proyectos desafiantes que me permitan explorar nuevas tecnologías y mejorar mis habilidades constantemente.
+👋 ¡Hola! Soy @programadorgr, un apasionado desarrollador fullstack con experiencia en la creación de aplicaciones web. Me encanta trabajar en proyectos desafiantes que me permitan explorar nuevas tecnologías y mejorar mis habilidades constantemente.
 
 💻 En el lado del frontend, estoy especializado en HTML, CSS y JavaScript, con experiencia en frameworks modernos como lo es React.js. Me esfuerzo por crear interfaces de usuario intuitivas y atractivas que brinden una experiencia de usuario excepcional.
 
